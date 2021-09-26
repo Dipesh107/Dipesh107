@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [The Borrow Trend](https://github.com/Dipesh107/BorrowTrend) and [Greendoors](https://github.com/whodissaket/greendoors).
 
-- 🌱 I’m currently learning **ReactJs, React Redux**
+- 🌱 I’m currently learning **ReactJs, React Redux and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dipesh107](https://github.com/Dipesh107)
 
